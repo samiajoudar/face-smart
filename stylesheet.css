@@ -1,0 +1,26 @@
+QWidget {
+    background-color: #001f3f;  /* Bleu nuit */
+    color: white;
+    font-size: 14px;
+}
+
+QPushButton {
+    background-color: green;  /* Vert */
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+QPushButton#stopButton {
+    background-color: red;  /* Rouge */
+    color: white;
+}
+
+QLineEdit {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
